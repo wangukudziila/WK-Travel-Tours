@@ -41,9 +41,11 @@ text-align: center;
 }
 
 
-header h1 {
+header h1 { 
+     text-align: center;
 
-margin: 0;
+margin:  margin: 20px; /* Adds 20px space around the header */;
+
 
 }
 
