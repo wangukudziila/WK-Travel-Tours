@@ -1,4 +1,107 @@
+selector {
 
+property: value;
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to my Website</title>
+   
+        
+    
+
+}body 
+
+font-family: italic; , Italicized text ;
+
+color: cream ;
+
+background-color:  #FFF5E1;
+
+margin:20px 0;
+
+padding:20px 0;
+
+line-height: 1.6;
+
+font size: 20px;
+
+}
+header {
+
+background-color:  #FFF5E1C;
+
+color:purple;
+
+padding: 20px 0;
+
+text-align: center;
+
+}
+
+
+header h1 :#2c3e50;
+
+margin:20px 0;
+
+}
+
+
+nav a {
+
+color: purple;
+
+text-decoration: bold;
+
+margin: 0 20px;
+
+}
+
+
+nav a:hover {
+
+text-decoration: bold;
+
+}
+
+main {
+
+padding: 20px 0;
+
+max-width: 800px;
+
+margin: 20px 0;
+
+}
+
+
+main img {
+
+max-width: 100%;
+
+height: auto;
+
+display: oval;
+
+margin: 20px 0;
+
+}
+footer :#2c3e50;
+
+background-color:  #FFF5E1;
+
+color:cream;
+
+text-align: center;
+
+padding: 10px;
+
+position: fixed;
+
+bottom: 0;
+
+width: 100%;
 
 
 
